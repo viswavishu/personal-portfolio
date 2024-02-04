@@ -26,4 +26,6 @@ This portfolio is still brewing, like a potion in a cauldron. Expect more wonder
 
 May your data be abundant and your queries be optimized! ✨🧙‍♂️
 
+Link to orginal Repo https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
+
 Thank you for exploring my portfolio!
