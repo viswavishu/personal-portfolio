@@ -20,11 +20,6 @@ Feel free to reach out if you have any questions, feedback, or collaboration opp
 - Email: viswavishu0110@gmail.com/viswanadhgandimenu@gmail.com
 - LinkedIn: https://www.linkedin.com/in/viswanadh-gandimenu/
 
-## ⚠️ Caution: Work in Progress ⚠️
-
-This portfolio is still brewing, like a potion in a cauldron. Expect more wonders and surprises as I weave new spells and add more scrolls. Stay tuned for updates – this tale is far from over!
-
-May your data be abundant and your queries be optimized! ✨🧙‍♂️
 
 Link to orginal Repo https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2
 
