@@ -55,6 +55,11 @@
   #profile {
     height: 83vh;
     margin-bottom: 0;
+        /* ✅ ADD THESE LINES */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   article {
     font-size: 1rem;
